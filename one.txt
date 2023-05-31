@@ -1,0 +1,2 @@
+Conflicts in Revert Commit
+The revert feature will revert the changes of a given commit, and it will compare your current state with the PARENT of that commit whose changes you are reverting. If the current state and that parent conflict, you will get a revert commit status as Merge Conflict
